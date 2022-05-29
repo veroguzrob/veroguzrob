@@ -1,31 +1,25 @@
-## Hi, I'm Vero Guzman
+<h1 align="center"> Hi, I'm Vero Guzman </h1> 
 
- _I love planning and organizing, but most of all I love that it helps me create new things and shape projects, both in my personal and professional life._
+<p align="justify">I love planning and organizing, but most of all I love that it helps me create new things and shape projects, both in my personal and professional life</p>
+<h2></h2>
 
-- I am currently working on Pin Notes (web page to create notes).
-- I am currently learning React
-<!--
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=dark)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=merko)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=gruvbox)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=tokyonight)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=onedark)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=cobalt)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=synthwave)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=highcontrast)
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=dracula)
--->
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=radical)
+<h3>About me: </h3>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&layout=compact)](https://github.com/veroguzrob/github-readme-stats)
+* 💻 I'm currently working on <a href="https://github.com/veroguzrob/CDMX012-notes"> Pin Notes<a/> (website to create notes).
+* 📚 I'm learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
+* ⭐ One of my fun facts is that I do Scrapbooking.
+<h2></h2>
 
+<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/veroguzrob/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="30" height="30"/></a> 
+<a href="mailto:vgrdesd@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="vgrdesd" height="30" width="30" /></a>
+<h2></h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
--->
+<h3>Tech Skills:</h3>
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
+<h2></h2>
+ 
+<h3>Stats:</h3>
+ 
+![Vero's Github stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=radical)

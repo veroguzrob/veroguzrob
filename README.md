@@ -23,7 +23,7 @@
 <h3>Stats:</h3>
  
 ![Vero's Github stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=radical)
-<!-- 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&hide=css$layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephsalazar&hide=css&layout=compact)
--->
+

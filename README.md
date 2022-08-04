@@ -5,7 +5,7 @@
 
 <h3>About me: </h3>
 
-<!--* 💻 I'm currently working on <a href="https://github.com/veroguzrob/CDMX012-notes"> Pin Notes<a/> (website to create notes).-->
+* 💻 I'm currently working on <a href="https://https://github.com/veroguzrob/sntsedatu"> SNTSEDATU<a/> (website for the National Union of Workers of SEDATU).-->
 * 📚 I'm learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
 * ⭐ One of my fun facts is that I do Scrapbooking.
 <h2></h2>

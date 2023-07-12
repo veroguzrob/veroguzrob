@@ -5,7 +5,7 @@
 
 <h3>About me: </h3>
 
-* 💻 I'm currently working on <a href="http://sntsedatu.org/"> SNTSEDATU<a/> (website for the National Union of Workers of SEDATU).
+* 💻 I'm currently working on <a href="http://sntsedatu.org/" target="blank"> SNTSEDATU<a/> (website for the National Union of Workers of SEDATU).
 * 📚 I'm learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
 * ⭐ One of my fun facts is that I do Scrapbooking.
 <h2></h2>

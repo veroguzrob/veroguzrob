@@ -22,6 +22,6 @@
  
 <h3>Stats:</h3>
 
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&include_all_commits=true&theme=radical&show_icons=true&hide=contribs,issues,stars)
+![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&include_all_commits=true&theme=radical&show_icons=true&hide=contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&langs_count=8)

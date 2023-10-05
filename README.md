@@ -26,5 +26,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&langs_count=8)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VeroGuzRob)
 

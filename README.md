@@ -24,7 +24,7 @@
 
 ![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&hide=css$layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&langs_count=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob)](https://github.com/veroguzrob/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 

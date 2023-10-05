@@ -22,7 +22,7 @@
  
 <h3>Stats:</h3>
 
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true)
+![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=radical)
 
 ![Vero's Github stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&count_private=true&show_icons=true&theme=radical)
 

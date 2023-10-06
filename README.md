@@ -22,6 +22,7 @@
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="100" height="100"/>-->
 <h2></h2>
 
+
 <h3>Stats:</h3>
 
 ![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&include_all_commits=true&theme=radical&show_icons=true&hide=contribs,issues)

@@ -12,7 +12,7 @@
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/veroguzrob/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100" /></a> 
-<a href="mailto:vgrdesd@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="vgrdesd" height="100" width="100" /></a>
+<a href="mailto:vgrdesd@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="vgrdesd" height="70" width="70" /></a>
 <h2></h2>
 
 <h3>Tech Skills:</h3>

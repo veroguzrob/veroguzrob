@@ -28,6 +28,8 @@
 
 <h3>Stats:</h3>
 
+![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&theme=radical&show_icons=true) 
 ![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&include_all_commits=true&theme=radical&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&langs_count=8)

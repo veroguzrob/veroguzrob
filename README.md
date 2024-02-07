@@ -26,10 +26,7 @@
 <h2></h2>
 
 
-<h3>Stats:</h3>
-
-![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=veroguzrob&theme=react&show_icons=true&count_private=true)
+<h3>Language:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroguzrob&langs_count=8)
 
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
